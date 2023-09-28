@@ -5,24 +5,7 @@ import  Calculating  from './Components/Task3';
 
 
 
-// function App() {
-//     return (
-//        
-//     );
-//   }
-  
-  // export default App;
 
-
-
-  // function App() {
-  //   return (
-  //       
-  //   );
-  // }
-
-  // export default App;
-  
 
 
   function App() {
